@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F48278E2-2DB9-48E0-B984-7B41F3BA7EF9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>playground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E2BF0AE59DE55C87593EA83A4EC3BF613B488D9A</key>
+		<string>https://github.com/jmvarguez-web/ejercicios-xcode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SWIFT/01_Variables.playground/playground.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E2BF0AE59DE55C87593EA83A4EC3BF613B488D9A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jmvarguez-web/ejercicios-xcode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E2BF0AE59DE55C87593EA83A4EC3BF613B488D9A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E2BF0AE59DE55C87593EA83A4EC3BF613B488D9A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ejercicios-xcode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
